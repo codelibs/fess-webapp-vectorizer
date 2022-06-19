@@ -8,7 +8,7 @@ This is a vectorizer plugin for Fess webapp.
 
 ## Download
 
-See [Maven Repository](http://central.maven.org/maven2/org/codelibs/fess/fess-webapp-vectorizer/).
+See [Maven Repository](https://repo1.maven.org/maven2/org/codelibs/fess/fess-webapp-vectorizer/).
 
 ## Installation
 
